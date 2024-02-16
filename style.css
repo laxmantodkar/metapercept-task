@@ -1,0 +1,25 @@
+.card {
+  width: 200px;
+  padding: 0px !important;
+}
+
+section {
+  margin: 20px auto;
+  max-width: auto;
+}
+
+img {
+  width: 100%;
+}
+
+.footer {
+  max-width: 80%;
+  margin: 10px auto;
+}
+
+.card {
+  width: auto;
+}
+.home{
+  background-image: linear-gradient(to right, #11c8f4, #684db6);
+}
